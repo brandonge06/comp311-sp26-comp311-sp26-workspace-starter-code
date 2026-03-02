@@ -1650,7 +1650,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>C&apos;</string>
+          <string>D&apos;</string>
         </entry>
       </elementAttributes>
       <pos x="1200" y="80"/>
@@ -1958,6 +1958,11 @@
         </entry>
       </elementAttributes>
       <pos x="880" y="-280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes/>
+      <pos x="80" y="580"/>
     </visualElement>
   </visualElements>
   <wires>
