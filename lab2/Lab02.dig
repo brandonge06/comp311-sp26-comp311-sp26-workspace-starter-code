@@ -924,7 +924,7 @@
           <string>Fc</string>
         </entry>
       </elementAttributes>
-      <pos x="-400" y="600"/>
+      <pos x="-400" y="580"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -938,7 +938,7 @@
           <string>Fa</string>
         </entry>
       </elementAttributes>
-      <pos x="-440" y="600"/>
+      <pos x="-440" y="580"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -952,7 +952,68 @@
           <string>Fb</string>
         </entry>
       </elementAttributes>
-      <pos x="-420" y="600"/>
+      <pos x="-420" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Fd</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-380" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Fe</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-440" y="780"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Ff</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-420" y="780"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>Fg</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-400" y="780"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="-380" y="780"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -1261,6 +1322,14 @@
       <p2 x="480" y="600"/>
     </wire>
     <wire>
+      <p1 x="-420" y="580"/>
+      <p2 x="-420" y="600"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="740"/>
+      <p2 x="-420" y="780"/>
+    </wire>
+    <wire>
       <p1 x="740" y="1760"/>
       <p2 x="740" y="1880"/>
     </wire>
@@ -1283,6 +1352,14 @@
     <wire>
       <p1 x="-460" y="1580"/>
       <p2 x="-460" y="1780"/>
+    </wire>
+    <wire>
+      <p1 x="-400" y="580"/>
+      <p2 x="-400" y="600"/>
+    </wire>
+    <wire>
+      <p1 x="-400" y="740"/>
+      <p2 x="-400" y="780"/>
     </wire>
     <wire>
       <p1 x="720" y="1360"/>
@@ -1321,6 +1398,14 @@
       <p2 x="-600" y="1700"/>
     </wire>
     <wire>
+      <p1 x="-440" y="580"/>
+      <p2 x="-440" y="600"/>
+    </wire>
+    <wire>
+      <p1 x="-440" y="740"/>
+      <p2 x="-440" y="780"/>
+    </wire>
+    <wire>
       <p1 x="760" y="1380"/>
       <p2 x="760" y="1520"/>
     </wire>
@@ -1335,6 +1420,14 @@
     <wire>
       <p1 x="-540" y="1440"/>
       <p2 x="-540" y="1480"/>
+    </wire>
+    <wire>
+      <p1 x="-380" y="740"/>
+      <p2 x="-380" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="-380" y="580"/>
+      <p2 x="-380" y="600"/>
     </wire>
     <wire>
       <p1 x="-160" y="1520"/>
