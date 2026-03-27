@@ -104,6 +104,19 @@
       <pos x="940" y="180"/>
     </visualElement>
   </visualElements>
-  <wires/>
+  <wires>
+    <wire>
+      <p1 x="800" y="320"/>
+      <p2 x="1020" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="340"/>
+      <p2 x="1100" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="320"/>
+      <p2 x="1020" y="340"/>
+    </wire>
+  </wires>
   <measurementOrdering/>
 </circuit>
